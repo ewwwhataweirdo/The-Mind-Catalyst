@@ -1,0 +1,16 @@
+.landing{
+    font-family: 'Oswald', sans-serif;
+    background-image: url(Images/20240805_The_Mind_Catalyst_Cover.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    aspect-ratio: 3/1;
+}
+h1{
+    text-align: center;
+}
+body{
+    color: white;
+    background-color: black;
+}
