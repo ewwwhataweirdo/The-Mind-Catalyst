@@ -34,7 +34,7 @@ a{
 }
 p{
     font-family: https://www.gstatic.com/_/atari/_/ss/k=atari.vw.g_h5F1Yd8LQ.L.W.O/am=AIABEA/d=1/rs=AGEqA5nXUpQ-4H5bjQ7xn6LuxQRMJ_5U6Q;
-    font-weight: 300px;
+    font-weight: bold, 16px;
     font-size: https://www.gstatic.com/_/atari/_/ss/k=atari.vw.g_h5F1Yd8LQ.L.W.O/am=AIABEA/d=1/rs=AGEqA5nXUpQ-4H5bjQ7xn6LuxQRMJ_5U6Q;
     line-height: 26.496px;
     overflow-wrap: break-word;
@@ -53,5 +53,8 @@ p{
 .join-us{
     padding-left: 10px;
     padding-right: 10px;
-    
+    font-weight: bold;
+}
+.home{
+    font-weight: bold;
 }
