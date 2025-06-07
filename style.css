@@ -8,7 +8,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    aspect-ratio: 2/1;
+    aspect-ratio: .5/.25;
     text-align: center;
 
 }
@@ -27,8 +27,31 @@ body{
 .left-items{
     margin: 10px;
 }
-a:link{
-    color: inherit;
+a{
+    color: white;
     text-decoration: none;
     font-weight: normal;
+}
+p{
+    font-family: https://www.gstatic.com/_/atari/_/ss/k=atari.vw.g_h5F1Yd8LQ.L.W.O/am=AIABEA/d=1/rs=AGEqA5nXUpQ-4H5bjQ7xn6LuxQRMJ_5U6Q;
+    font-weight: 300px;
+    font-size: https://www.gstatic.com/_/atari/_/ss/k=atari.vw.g_h5F1Yd8LQ.L.W.O/am=AIABEA/d=1/rs=AGEqA5nXUpQ-4H5bjQ7xn6LuxQRMJ_5U6Q;
+    line-height: 26.496px;
+    overflow-wrap: break-word;
+    box-sizing: border-box;
+    font-style:normal;
+}
+.welcome{
+    text-align: center;
+}
+.signoff{
+    text-align: end;
+}
+.welcome-text{
+    padding: 48px 48px;
+}
+.join-us{
+    padding-left: 10px;
+    padding-right: 10px;
+    
 }
